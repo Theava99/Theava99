@@ -15,7 +15,7 @@ I'm a full-stack developer focused on building scalable and user-friendly web ap
 - Contribute to open-source projects and collaborate with other developers.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: https://www.linkedin.com/in/adelekun-victoria-40bb42228?
+- **LinkedIn**: https://www.linkedin.com/in/adelekun-victoria-40bb42228
 - **Email**: adelekunvictoria09@gmail.com
 - **Portfolio**: 
 
